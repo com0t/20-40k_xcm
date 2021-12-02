@@ -1,0 +1,9 @@
+.github/
+.gitignore
+.svnignore
+gulpfile.js
+LICENSE
+package.json
+package-lock.json
+README.md
+vk-block-patterns.code-workspace
